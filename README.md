@@ -48,6 +48,17 @@ class Vishal:
 </td>
 </tr>
 </table>
+<!-- ═══════════════ PORTFOLIO ═══════════════ -->
+🌐 Portfolio
+<div align="center">
+
+<a href="https://my-portfolio-mvn4.vercel.app/"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,50:1F6FEB,100:58A6FF&height=170&section=header&text=My%20Portfolio&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Projects%20%E2%80%A2%20Live%20Demos%20%E2%80%A2%20Resume&descSize=16&descAlignY=68" width="100%" alt="My Portfolio" /></a>
+
+<table> <tr> <td align="center" width="33%">🚀<br/><b>Projects</b><br/><sub>ML, web & Java builds</sub></td> <td align="center" width="33%">🔗<br/><b>Live Demos</b><br/><sub>Try them in your browser</sub></td> <td align="center" width="33%">📄<br/><b>About & Resume</b><br/><sub>Skills and background</sub></td> </tr> </table> <br/>
+
+<a href="https://my-portfolio-mvn4.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20Explore%20My%20Portfolio-Visit%20Now-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+
+<sub>my-portfolio-mvn4.vercel.app</sub>
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 ## 🛠️ Tech Stack
