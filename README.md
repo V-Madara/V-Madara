@@ -16,14 +16,7 @@
 <br/>
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
-## 🧑‍💻 About Me <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.png" />
-  <img src="assets/logo-dark.png" alt="MVN logo" width="50" />
-</picture>
-<br/>
-<sub><b>M V N</b></sub>
-
+## 🧑‍💻 About Me
 <table>
 <tr>
 <td width="55%" valign="top">
