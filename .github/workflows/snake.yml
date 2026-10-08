@@ -15,14 +15,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      # The FIRST color in color_dots is the empty "path" cells.
-      # #00000000 = fully transparent, so only the contribution dots stay coloured (GitHub's default greens).
+      # First color in color_dots = empty grid cells (GitHub default grey). The SVG background itself stays transparent.
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#0969da&color_dots=#00000000,#9be9a8,#40c463,#30a14e,#216e39
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#58a6ff&color_dots=#00000000,#0e4429,#006d32,#26a641,#39d353
+            dist/github-contribution-grid-snake.svg?color_snake=#0969da&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#58a6ff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
