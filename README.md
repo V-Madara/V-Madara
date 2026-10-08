@@ -135,20 +135,6 @@ Currently exploring **Python, Machine Learning, FastAPI, OpenCV, Java and Web De
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=V-Madara&show_icons=true&theme=github_dark&hide_border=true&count_private=false&include_all_commits=false"
-  height="180"
-  alt="Vishal's GitHub Stats"
-/>
-
-</div>
-
----
-
 ## 🐍 My Contributions
 
 <div align="center">
