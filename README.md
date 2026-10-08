@@ -148,7 +148,7 @@ Open Source            [████░░░░░░░░░░░░░░�
   <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.png" />
   <img src="assets/logo-dark.png" alt="MVN" width="28" />
 </picture>
-<sub>&nbsp;MVN</b> © 2026</sub>
+<sub>MVN</b> © 2026</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=120&section=footer" width="100%" />
 
