@@ -1,14 +1,6 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="logo-light.png" />
-  <img src="logo-dark.png" alt="MVN logo" width="72" />
-</picture>
-<br/>
-<sub><b>M V N</b></sub>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Vishal%20Prajapati&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20•%20Problem%20Solver%20•%20Builder&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=40&lines=Building+things+that+solve+problems;Learning+%26+improving+every+day;Python+%7C+Java+%7C+FastAPI+%7C+ML;Turning+ideas+into+projects+%F0%9F%9A%80" alt="Typing SVG" />
@@ -176,12 +168,7 @@ Open Source            [████░░░░░░░░░░░░░░�
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="logo-light.png" />
-  <img src="logo-dark.png" alt="MVN" width="28" />
-</picture>
-<sub>&nbsp;<b>MVN</b> © 2026</sub>
+<img src="assets/mvn-brand.svg" alt="MVN" height="48" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=120&section=footer" width="100%" />
 
