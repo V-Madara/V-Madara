@@ -1,33 +1,30 @@
-name: Generate Contribution Snake
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
-    permissions:
-      contents: write
-
     runs-on: ubuntu-latest
-
     steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+      # The FIRST color in color_dots is the empty "path" cells.
+      # #00000000 = fully transparent, so only the contribution dots stay coloured.
+      - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: V-Madara
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake.svg?color_snake=#0969da&color_dots=#00000000,#b6e3ff,#54aeff,#0969da,#0550ae
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#58a6ff&color_dots=#00000000,#0c2d6b,#1158c7,#388bfd,#79c0ff
 
-      - name: Publish Snake
-        uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
