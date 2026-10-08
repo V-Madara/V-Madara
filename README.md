@@ -151,7 +151,8 @@ Currently exploring **Python, Machine Learning, FastAPI, OpenCV, Java and Web De
 
 ## 🐍 My Contributions
 
-<p align="center">
+
+<div align="center">
 
 <picture>
   <source
@@ -165,15 +166,14 @@ Currently exploring **Python, Machine Learning, FastAPI, OpenCV, Java and Web De
   />
 
   <img
-    alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/V-Madara/V-Madara/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
     width="100%"
   />
 
 </picture>
 
-</p>
-
+</div>
 ---
 
 ## 🎯 2026 Goals
