@@ -1,54 +1,26 @@
+<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-# 👋 Hey, I'm Vishal Prajapati
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Vishal%20Prajapati&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20•%20Problem%20Solver%20•%20Builder&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
-### `Developer` • `Problem Solver` • `Builder`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+things+that+solve+problems;Learning+%26+improving+every+day;Python+%7C+Java+%7C+FastAPI+%7C+ML;Turning+ideas+into+projects+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://my-portfolio-mvn4.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-Visit%20Website-58A6FF?style=for-the-badge" />
-</a>
-<a href="https://github.com/V-Madara">
-  <img src="https://img.shields.io/badge/GitHub-V--Madara-181717?style=for-the-badge&logo=github" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=40&lines=Building+things+that+solve+problems;Learning+%26+improving+every+day;Python+%7C+Java+%7C+FastAPI+%7C+ML;Turning+ideas+into+projects+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=V-Madara&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+<a href="https://my-portfolio-mvn4.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://github.com/V-Madara"><img src="https://img.shields.io/badge/GitHub-V--Madara-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+<img src="https://komarev.com/ghpvc/?username=V-Madara&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=PROFILE+VIEWS" />
 
 </div>
 
----
+<br/>
 
+<!-- ═══════════════ ABOUT ═══════════════ -->
 ## 🧑‍💻 About Me
 
-```python
-class Vishal:
-
-    name = "Vishal Prajapati"
-    username = "V-Madara"
-    location = "India"
-
-    currently_learning = [
-        "Python",
-        "Machine Learning",
-        "FastAPI",
-        "OpenCV",
-        "Backend Development"
-    ]
-
-    interests = [
-        "Software Development",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Web Development"
-    ]
-
-    goal = "Build useful things and become a better developer every day."
-```
+<table>
+<tr>
+<td width="55%" valign="top">
 
 I'm a developer who enjoys **building projects, experimenting with new technologies, and turning ideas into working software.**
 
@@ -56,163 +28,120 @@ Currently exploring **Python, Machine Learning, FastAPI, OpenCV, Java and Web De
 
 > ⚡ *Learn → Build → Break → Fix → Repeat.*
 
----
+</td>
+<td width="45%" valign="top">
 
-## 🌐 Portfolio
+```python
+class Vishal:
+    username = "V-Madara"
+    location = "India"
+
+    learning = [
+        "Python", "Machine Learning",
+        "FastAPI", "OpenCV", "Backend",
+    ]
+
+    goal = "Build useful things and get\
+ better every day."
+```
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### ✨ Want to see more?
+**Languages**
 
-<a href="https://my-portfolio-mvn4.vercel.app/">
-<img src="https://img.shields.io/badge/🚀%20Explore%20My%20Portfolio-Visit%20Now-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js&theme=dark" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=fastapi,opencv,sklearn&theme=dark" />
+
+**Tools & Databases**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postgresql,mysql,vercel&theme=dark" />
 
 </div>
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js" />
-</p>
-
-### Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,opencv,sklearn" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postgresql,mysql,vercel" />
-</p>
-
----
-
+<!-- ═══════════════ WORKING ON ═══════════════ -->
 ## 🚀 What I'm Working On
 
-* 🐍 Improving my **Python** skills
-* 🤖 Building **Machine Learning projects**
-* ⚡ Learning **FastAPI & backend development**
-* 👁️ Exploring **Computer Vision with OpenCV**
-* 🌐 Improving my **web development** skills
-* 🧠 Building projects that help me learn by doing
+| | Focus | |
+|:-:|:--|:-:|
+| 🐍 | Improving my **Python** skills | `ongoing` |
+| 🤖 | Building **Machine Learning** projects | `ongoing` |
+| ⚡ | Learning **FastAPI** & backend development | `ongoing` |
+| 👁️ | Exploring **Computer Vision** with OpenCV | `ongoing` |
+| 🌐 | Leveling up **web development** | `ongoing` |
 
----
-
+<!-- ═══════════════ PROJECTS ═══════════════ -->
 ## 📌 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/V-Madara">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=V-Madara&repo=Calculator&theme=github_dark&hide_border=true" />
-</a>
+<a href="https://github.com/V-Madara/Calculator"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=V-Madara&repo=Calculator&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_color=30363d" /></a>
+<a href="https://github.com/V-Madara/Madara-Website"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=V-Madara&repo=Madara-Website&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_color=30363d" /></a>
 
-<a href="https://github.com/V-Madara">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=V-Madara&repo=Madara-Website&theme=github_dark&hide_border=true" />
-</a>
+<sub>💡 More projects on my <a href="https://github.com/V-Madara?tab=repositories">GitHub repositories</a></sub>
 
 </div>
 
-> 💡 More projects are available on my GitHub repositories.
-
----
-
+<!-- ═══════════════ STATS ═══════════════ -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=V-Madara&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Madara&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=V-Madara&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Madara&layout=compact&theme=transparent&title_color=58A6FF&text_color=c9d1d9&border_color=30363d&langs_count=8" />
 
 </div>
 
----
-
+<!-- ═══════════════ SNAKE ═══════════════ -->
 ## 🐍 My Contributions
 
 <div align="center">
 
 <picture>
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/V-Madara/V-Madara/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/V-Madara/V-Madara/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/V-Madara/V-Madara/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/V-Madara/V-Madara/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/V-Madara/V-Madara/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/V-Madara/V-Madara/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 </div>
----
 
+<!-- ═══════════════ GOALS ═══════════════ -->
 ## 🎯 2026 Goals
 
 ```text
-[████████████████░░░░]  Keep Learning
-[████████████░░░░░░░░]  Build Better Projects
-[██████████░░░░░░░░░░]  Master Python
-[████████░░░░░░░░░░░░]  Machine Learning
-[██████░░░░░░░░░░░░░░]  Backend Development
-[████░░░░░░░░░░░░░░░░]  Open Source
+Keep Learning          [████████████████░░░░]  80%
+Build Better Projects  [████████████░░░░░░░░]  60%
+Master Python          [██████████░░░░░░░░░░]  50%
+Machine Learning       [████████░░░░░░░░░░░░]  40%
+Backend Development    [██████░░░░░░░░░░░░░░]  30%
+Open Source            [████░░░░░░░░░░░░░░░░]  20%
 ```
 
----
-
-## 💭 Developer Philosophy
-
+<!-- ═══════════════ FOOTER ═══════════════ -->
 <div align="center">
-
-> **"Don't just learn the technology. Build something with it."**
 
 <br/>
 
+> **"Don't just learn the technology. Build something with it."**
+
 **Code. Learn. Build. Improve. Repeat. 🚀**
 
-</div>
+<br/>
 
----
+<a href="https://my-portfolio-mvn4.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://github.com/V-Madara"><img src="https://img.shields.io/badge/GitHub-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 
-## 🤝 Let's Connect
+<sub>⭐ If you find something interesting here, feel free to star a repository!</sub>
 
-<div align="center">
-
-<a href="https://my-portfolio-mvn4.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://github.com/V-Madara">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-⭐ **If you find something interesting here, feel free to star a repository!**
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting! 👋
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=120&section=footer" width="100%" />
 
 </div>
