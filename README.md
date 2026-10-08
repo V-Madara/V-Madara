@@ -1,6 +1,14 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="logo-light.png" />
+  <img src="logo-dark.png" alt="MVN logo" width="72" />
+</picture>
+<br/>
+<sub><b>M V N</b></sub>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Vishal%20Prajapati&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20•%20Problem%20Solver%20•%20Builder&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=40&lines=Building+things+that+solve+problems;Learning+%26+improving+every+day;Python+%7C+Java+%7C+FastAPI+%7C+ML;Turning+ideas+into+projects+%F0%9F%9A%80" alt="Typing SVG" />
@@ -48,17 +56,29 @@ class Vishal:
 </td>
 </tr>
 </table>
+
 <!-- ═══════════════ PORTFOLIO ═══════════════ -->
-🌐 Portfolio
+## 🌐 Portfolio
+
 <div align="center">
 
 <a href="https://my-portfolio-mvn4.vercel.app/"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,50:1F6FEB,100:58A6FF&height=170&section=header&text=My%20Portfolio&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Projects%20%E2%80%A2%20Live%20Demos%20%E2%80%A2%20Resume&descSize=16&descAlignY=68" width="100%" alt="My Portfolio" /></a>
 
-<table> <tr> <td align="center" width="33%">🚀<br/><b>Projects</b><br/><sub>ML, web & Java builds</sub></td> <td align="center" width="33%">🔗<br/><b>Live Demos</b><br/><sub>Try them in your browser</sub></td> <td align="center" width="33%">📄<br/><b>About & Resume</b><br/><sub>Skills and background</sub></td> </tr> </table> <br/>
+<table>
+<tr>
+<td align="center" width="33%">🚀<br/><b>Projects</b><br/><sub>ML, web & Java builds</sub></td>
+<td align="center" width="33%">🔗<br/><b>Live Demos</b><br/><sub>Try them in your browser</sub></td>
+<td align="center" width="33%">📄<br/><b>About & Resume</b><br/><sub>Skills and background</sub></td>
+</tr>
+</table>
+
+<br/>
 
 <a href="https://my-portfolio-mvn4.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20Explore%20My%20Portfolio-Visit%20Now-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
 
 <sub>my-portfolio-mvn4.vercel.app</sub>
+
+</div>
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 ## 🛠️ Tech Stack
@@ -179,7 +199,12 @@ Open Source            [████░░░░░░░░░░░░░░�
 
 <br/><br/>
 
-<img src="assets/mvn-brand.svg" alt="MVN" height="48" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="logo-light.png" />
+  <img src="logo-dark.png" alt="MVN" width="28" />
+</picture>
+<sub>&nbsp;<b>MVN</b> © 2026</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=120&section=footer" width="100%" />
 
