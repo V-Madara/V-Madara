@@ -1,6 +1,14 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="logo-light.png" />
+  <img src="logo-dark.png" alt="MVN logo" width="72" />
+</picture>
+<br/>
+<sub><b>M V N</b></sub>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Vishal%20Prajapati&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20•%20Problem%20Solver%20•%20Builder&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=40&lines=Building+things+that+solve+problems;Learning+%26+improving+every+day;Python+%7C+Java+%7C+FastAPI+%7C+ML;Turning+ideas+into+projects+%F0%9F%9A%80" alt="Typing SVG" />
@@ -17,6 +25,7 @@
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
 ## 🧑‍💻 About Me
+
 <table>
 <tr>
 <td width="55%" valign="top">
@@ -83,10 +92,34 @@ class Vishal:
 
 <div align="center">
 
-<a href="https://github.com/V-Madara/Calculator"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=V-Madara&repo=Calculator&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_color=30363d" /></a>
-<a href="https://github.com/V-Madara/Madara-Website"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=V-Madara&repo=Madara-Website&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_color=30363d" /></a>
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 
-<sub>💡 More projects on my <a href="https://github.com/V-Madara?tab=repositories">GitHub repositories</a></sub>
+<a href="https://reelists-1.onrender.com/"><img src="assets/reelist-preview.jpg" alt="Reelist preview" width="100%" /></a>
+
+### 🎬 Reelist
+A movie discovery app with trending titles, search, and "more like this" recommendations.
+
+<a href="https://reelists-1.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-E63946?style=for-the-badge&logo=render&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://github.com/V-Madara/Reelists"><img src="https://img.shields.io/badge/Source_Code-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<a href="https://mansik-health-1.onrender.com/"><img src="assets/mindsense-preview.jpg" alt="MindSense AI preview" width="100%" /></a>
+
+### 🧠 Mansik Health (MindSense AI)
+An ML-powered student mental wellbeing assessment covering sleep, study, screen time and stress.
+
+<a href="https://mansik-health-1.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-7C6CF2?style=for-the-badge&logo=render&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://github.com/V-Madara/Mansik-Health"><img src="https://img.shields.io/badge/Source_Code-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+
+</td>
+</tr>
+</table>
+
+<sub>⏳ Demos run on a free tier, so the first load may take a few seconds. More on my <a href="https://github.com/V-Madara?tab=repositories">GitHub repositories</a>.</sub>
 
 </div>
 
@@ -143,7 +176,12 @@ Open Source            [████░░░░░░░░░░░░░░�
 
 <br/><br/>
 
-<img src="assets/mvn-brand.svg" alt="MVN" height="48" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="logo-light.png" />
+  <img src="logo-dark.png" alt="MVN" width="28" />
+</picture>
+<sub>&nbsp;<b>MVN</b> © 2026</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=120&section=footer" width="100%" />
 
