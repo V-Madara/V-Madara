@@ -48,8 +48,10 @@ class Vishal:
 </td>
 </tr>
 </table>
+
 <!-- ═══════════════ PORTFOLIO ═══════════════ -->
-🌐 Portfolio
+## 🌐 Portfolio
+
 <div align="center">
 
 <a href="https://my-portfolio-mvn4.vercel.app/"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,50:1F6FEB,100:58A6FF&height=170&section=header&text=My%20Portfolio&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Projects%20%E2%80%A2%20Live%20Demos%20%E2%80%A2%20Resume&descSize=16&descAlignY=68" width="100%" alt="My Portfolio" /></a>
@@ -59,6 +61,8 @@ class Vishal:
 <a href="https://my-portfolio-mvn4.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20Explore%20My%20Portfolio-Visit%20Now-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
 
 <sub>my-portfolio-mvn4.vercel.app</sub>
+
+</div>
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 ## 🛠️ Tech Stack
@@ -101,7 +105,8 @@ class Vishal:
 
 <a href="https://reelists-1.onrender.com/"><img src="assets/reelist-preview.jpg" alt="Reelist preview" width="100%" /></a>
 
-### 🎬 Reelist
+<h3 align="left">🎬 Reelist</h3>
+
 A movie discovery app with trending titles, search, and "more like this" recommendations.
 
 <a href="https://reelists-1.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-E63946?style=for-the-badge&logo=render&logoColor=white&labelColor=0D1117" /></a>
@@ -112,7 +117,8 @@ A movie discovery app with trending titles, search, and "more like this" recomme
 
 <a href="https://mansik-health-1.onrender.com/"><img src="assets/mindsense-preview.jpg" alt="MindSense AI preview" width="100%" /></a>
 
-### 🧠 Mansik Health (MindSense AI)
+<h3 align="left">🧠 Mansik Health (MindSense AI)</h3>
+
 An ML-powered student mental wellbeing assessment covering sleep, study, screen time and stress.
 
 <a href="https://mansik-health-1.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-7C6CF2?style=for-the-badge&logo=render&logoColor=white&labelColor=0D1117" /></a>
